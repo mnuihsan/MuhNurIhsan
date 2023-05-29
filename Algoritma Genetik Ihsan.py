@@ -11,7 +11,7 @@ d_min = 0
 d_max = 10
 
 # Jumlah populasi dan iterasi
-jumlah_populasi = 6
+jumlah_populasi = 10
 max_iterasi = 100
 
 def generate_chromosome():
